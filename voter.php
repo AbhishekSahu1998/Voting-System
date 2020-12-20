@@ -7,7 +7,7 @@ include "header_voter.php";
 ?>
 <br>
 <center style="color:blue;">
-<h3> Welcome <?php echo $_SESSION['SESS_NAME']; ?> </h3>
+<h3><div class="spinner-border text-warning"></div> Welcome <?php echo $_SESSION['SESS_NAME']; ?> <div class="spinner-border text-danger"></div> </h3>
 <h3>Make a Vote </h3></center>
 <center>
      <div class="card bg-danger text-white " style="width:30rem;>

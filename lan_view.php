@@ -17,7 +17,7 @@ if (mysqli_num_rows($member)== 0 ) {
 	echo '<font color="red">No results found</font>';
 }
 else {
-	echo '<center><table class="table table-dark"><tr>
+	echo '<center><table class="table table-dark text-center"><tr>
 <td>ID</td>		
 <td>LANGAUAGE</td>
 <td>ABOUT</td>

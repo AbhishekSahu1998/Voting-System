@@ -10,6 +10,16 @@ include "connection.php";
 <h3> Welcome <?php echo $_SESSION['SESS_NAME']; ?> </h3></center>
 <br>
 <br>
+<center>
+<div class="spinner-grow text-muted"></div>
+<div class="spinner-grow text-primary"></div>
+<div class="spinner-grow text-success"></div>
+<div class="spinner-grow text-info"></div>
+<div class="spinner-grow text-warning"></div>
+<div class="spinner-grow text-danger"></div>
+<div class="spinner-grow text-secondary"></div>
+<div class="spinner-grow text-dark"></div>
+<div class="spinner-grow "></div></center>
 <center><font size="6" style="background-color:black; color:white;">
 <?php
 $username = $_SESSION['SESS_NAME'];
