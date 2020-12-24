@@ -1,7 +1,7 @@
  <div class="container ">
  <div class="row"> 
  <div class="col"  style="text-align:center; ">
- <center>  <div class="spinner-border"></div><font color="red"><b><i>Declaration: </i></b></font><i>SGSITS INDORE &nbsp;</i></center>    
+ <center>  <div class="spinner-border"></div><font color="red"><b><i>:Abhishek Sahu </i></b></font><i>SGSITS INDORE &nbsp;</i></center>    
  </div>
 </div>     
  </div> 

@@ -19,7 +19,7 @@ if (mysqli_num_rows($member)== 0 ) {
 else {
 	echo '<center><table class="table table-dark text-center"><tr>
 <td>ID</td>		
-<td>LANGAUAGE</td>
+<td>PARTY</td>
 <td>ABOUT</td>
 <td ">VOTE</td>
 </tr>';
